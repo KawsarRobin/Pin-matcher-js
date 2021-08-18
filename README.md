@@ -1,0 +1,1 @@
+# Pin-matcher-js is a small project while learning js. here you have to generate a random pin by clicking gererate button in left. there is a calculatoar in right side, you have to type the number of generated pin than press submit button, than it will show you that  is your typed number is correct or not by an error or success messege.. have a try!
